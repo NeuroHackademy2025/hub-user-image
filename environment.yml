@@ -63,6 +63,7 @@ dependencies:
     - cloudpathlib[s3,gs,azure]
     - colorspacious
     - requests
+    - mriqc
     - platformdirs
     - jupyter-keepalive
     - git+https://github.com/NeuroHackademy2025/rbclib@main
