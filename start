@@ -6,3 +6,6 @@ then ln -s "${HOME}/shared/docs" "${HOME}/docs"
 fi
 
 
+jupyter labextension install ipyvolume
+jupyter labextension install jupyter-threejs
+
