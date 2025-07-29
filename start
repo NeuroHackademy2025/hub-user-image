@@ -6,3 +6,4 @@ then ln -s "${HOME}/shared/docs" "${HOME}/docs"
 fi
 
 
+exec "$@"
