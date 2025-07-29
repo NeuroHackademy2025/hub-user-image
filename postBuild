@@ -1,0 +1,2 @@
+jupyter labextension install ipyvolume
+jupyter labextension install jupyter-threejs
