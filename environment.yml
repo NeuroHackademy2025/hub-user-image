@@ -49,7 +49,7 @@ dependencies:
     - nipype
     - neuropythy>=0.12.16
     - dipy
-    - nilearn
+    - nilearn==0.12.0
     - dask[complete]
     - nimare
     - osfclient
