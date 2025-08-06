@@ -43,6 +43,7 @@ dependencies:
   - tensorflow
   - nitime
   - openneuro-py
+  - jupytext
   - pip
   - pip:
     - pybids
